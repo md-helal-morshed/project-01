@@ -1,0 +1,63 @@
+body{
+
+    width:90%;
+}
+section{
+   height: 500px;
+   overflow: hidden;
+}
+h1{
+    text-align: center;
+}
+.header{
+    background-image: url(imagese/header-bg.png);
+    width: 100%;
+    
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%
+    
+
+}
+.biography{
+    background-image: url(imagese/biography-bg.png);
+}
+.latest-work img
+.half-width img {
+    width: 100%;
+}
+.highlight{
+    color:#EC4B74;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-color:#EC4B74 ;
+    padding: 5px 20px;
+    border-radius: 2px;
+}
+.onethird-width{
+    width: 30%;
+    float: left;
+    padding: 1%;
+}
+.latest-work img {
+    width: 100%;
+}
+.clint-area{
+    text-align: center;
+    background-image: url(imagese/footer-bg.png);
+    object-position: center;
+}
+.email{
+    background-color: #EC4B74;
+    color:aliceblue;  
+    width: fit-content;
+    
+}
+.footer{
+    text-align: center;
+}
